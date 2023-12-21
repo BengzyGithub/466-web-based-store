@@ -1,5 +1,4 @@
 # 466-web-based-store
-This is a Web-based databased driven tool that handles an online store.
 
 ## Introduction
 This project involves designing and developing a web-based, database-driven application for an online store. It is a group assignment for CSCI 466, and all elements learned in the class will be applied.
